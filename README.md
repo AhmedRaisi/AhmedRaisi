@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @AhmedRaisi
 
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=AhmedRaisi.AhmedRaisi)
+![Visitor Count](https://profile-counter.glitch.me/AhmedRaisi/count.svg)
 
 I'm a passionate developer with an interest in **full-stack development** and exploring **machine learning models**.
 
