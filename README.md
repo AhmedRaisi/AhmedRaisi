@@ -5,6 +5,8 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/AhmedRaisi/count.svg)
 
+<br> <!-- Added smaller padding -->
+
 I'm a passionate developer with an interest in **full-stack development** and exploring **machine learning models**.
 
 </div>
@@ -14,8 +16,9 @@ I'm a passionate developer with an interest in **full-stack development** and ex
 ---
 
 <div align="center">
+
 ## 🚀 About Me
-<br>
+
 I’m interested in **full-stack development** and exploring **machine learning models**.<br>
 Currently learning various different front-end and back-end frameworks.<br>
 Looking to collaborate on any of my repos or any full-stack projects.<br>
@@ -30,7 +33,7 @@ Looking to collaborate on any of my repos or any full-stack projects.<br>
 ---
 
 <div align="center">
-<br>
+
 ## 📊 My GitHub Stats
 
 ![AhmedRaisi's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmedRaisi&show_icons=true&theme=radical)
