@@ -1,11 +1,11 @@
 <div align="center">
 
-# 👋 Hi, I’m <span style="color: #2E8B57;">Ahmed Al Raisi</span>
-### <span style="color: #708090;">@AhmedRaisi</span>
+# 👋 Hi, I’m Ahmed Al Raisi
+### @AhmedRaisi
 
 ![Visitor Count](https://profile-counter.glitch.me/AhmedRaisi/count.svg)
 
-I'm a passionate developer with an interest in <span style="color: #FF6347;">full-stack development</span> and exploring <span style="color: #FF6347;">machine learning models</span>.
+I'm a passionate developer with an interest in **full-stack development** and exploring **machine learning models**.
 
 </div>
 
@@ -13,14 +13,14 @@ I'm a passionate developer with an interest in <span style="color: #FF6347;">ful
 
 <div align="center">
 
-## 🚀 <span style="color: #2E8B57;">About Me</span>
+## 🚀 About Me
 
-I’m interested in <span style="color: #FF6347;">full-stack development</span> and exploring <span style="color: #FF6347;">machine learning models</span>.<br>
+I’m interested in **full-stack development** and exploring **machine learning models**.<br>
 Currently learning various different front-end and back-end frameworks.<br>
 Looking to collaborate on any of my repos or any full-stack projects.<br>
 📫 How to reach me: 
-[<span style="color: #1E90FF;">**LinkedIn**</span>](https://www.linkedin.com/in/ahmedalraisi7/) |
-[<span style="color: #1E90FF;">**Email**</span>](mailto:ahmedalraisi@gmail.com)
+[**LinkedIn**](https://www.linkedin.com/in/ahmedalraisi7/) |
+[**Email**](mailto:ahmedalraisi@gmail.com)
 
 </div>
 
@@ -28,15 +28,15 @@ Looking to collaborate on any of my repos or any full-stack projects.<br>
 
 <div align="center">
 
-## 📊 <span style="color: #2E8B57;">My GitHub Stats</span>
+## 📊 My GitHub Stats
 
 ![AhmedRaisi's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmedRaisi&show_icons=true&theme=radical)
 
-## 🔥 <span style="color: #2E8B57;">Streak Stats</span>
+## 🔥 Streak Stats
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AhmedRaisi&theme=dark)
 
-## 💻 <span style="color: #2E8B57;">Most Used Languages</span>
+## 💻 Most Used Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedRaisi&layout=compact&theme=vue)
 
