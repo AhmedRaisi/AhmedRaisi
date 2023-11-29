@@ -1,20 +1,32 @@
 <div align="center">
 
 # 👋 Hi, I’m Ahmed Al Raisi
-# @AhmedRaisi
+### @AhmedRaisi
 
 ![Visitor Count](https://profile-counter.glitch.me/AhmedRaisi/count.svg)
 
 I'm a passionate developer with an interest in **full-stack development** and exploring **machine learning models**.
 
+</div>
+
+---
+
+<div align="center">
+
 ## 🚀 About Me
 
-- 👀 I’m interested in **full-stack development** and exploring **machine learning models**.
-- 🌱 I’m currently learning various different front-end and back-end frameworks.
-- 💞️ I’m looking to collaborate on any of my repos or any full-stack projects.
-- 📫 How to reach me: 
-  - **LinkedIn:** [Ahmed Al Raisi](https://www.linkedin.com/in/ahmedalraisi7/)
-  - **Email:** ahmedalraisi@gmail.com
+I’m interested in **full-stack development** and exploring **machine learning models**.<br>
+Currently learning various different front-end and back-end frameworks.<br>
+Looking to collaborate on any of my repos or any full-stack projects.<br>
+📫 How to reach me: 
+[**LinkedIn**](https://www.linkedin.com/in/ahmedalraisi7/) |
+[**Email**](mailto:ahmedalraisi@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
 
 ## 📊 My GitHub Stats
 
@@ -27,7 +39,9 @@ I'm a passionate developer with an interest in **full-stack development** and ex
 ## 💻 Most Used Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedRaisi&layout=compact&theme=vue)
+
 </div>
+
 <!---
 AhmedRaisi/AhmedRaisi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
