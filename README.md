@@ -38,7 +38,7 @@ Looking to collaborate on any of my repos or any full-stack projects.<br>
 
 ## 💻 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedRaisi&layout=compact&theme=vue)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedRaisi&layout=compact&theme=dark)
 
 </div>
 
