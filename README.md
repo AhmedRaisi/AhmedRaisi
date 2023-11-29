@@ -38,13 +38,23 @@ Looking to collaborate on any of my repos or any full-stack projects.<br>
 
 ## 📊 My GitHub Stats
 
+<br> <!-- Added smaller padding -->
+
 ![AhmedRaisi's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmedRaisi&show_icons=true&theme=radical)
+
+<br><br> <!-- Added padding -->
 
 ## 🔥 Streak Stats
 
+<br> <!-- Added smaller padding -->
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AhmedRaisi&theme=dark)
 
+<br><br> <!-- Added padding -->
+
 ## 💻 Most Used Languages
+
+<br> <!-- Added smaller padding -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedRaisi&layout=compact&theme=dark)
 
