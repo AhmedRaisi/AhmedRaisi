@@ -9,6 +9,8 @@ I'm a passionate developer with an interest in **full-stack development** and ex
 
 </div>
 
+<br><br> <!-- Added padding -->
+
 ---
 
 <div align="center">
@@ -23,6 +25,8 @@ Looking to collaborate on any of my repos or any full-stack projects.<br>
 [**Email**](mailto:ahmedalraisi@gmail.com)
 
 </div>
+
+<br><br> <!-- Added padding -->
 
 ---
 
