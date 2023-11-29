@@ -42,7 +42,7 @@ Looking to collaborate on any of my repos or any full-stack projects.<br>
 
 ![AhmedRaisi's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmedRaisi&show_icons=true&theme=radical)
 
-<br><br> <!-- Added padding -->
+<br><br><br> <!-- Added padding -->
 
 ## 🔥 Streak Stats
 
@@ -50,7 +50,7 @@ Looking to collaborate on any of my repos or any full-stack projects.<br>
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AhmedRaisi&theme=dark)
 
-<br><br> <!-- Added padding -->
+<br><br><br> <!-- Added padding -->
 
 ## 💻 Most Used Languages
 
