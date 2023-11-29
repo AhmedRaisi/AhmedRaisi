@@ -1,3 +1,4 @@
+<div style='text-align: center;'>
 # 👋 Hi, I’m @AhmedRaisi
 
 ![Visitor Count](https://profile-counter.glitch.me/AhmedRaisi/count.svg)
@@ -29,3 +30,4 @@ I'm a passionate developer with an interest in **full-stack development** and ex
 AhmedRaisi/AhmedRaisi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+</div>
