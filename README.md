@@ -19,7 +19,7 @@ I'm a passionate developer with an interest in **full-stack development** and ex
 
 ## 🚀 About Me
 
-<br> <!-- Added smaller padding -->
+<!-- Added smaller padding -->
 
 I’m interested in **full-stack development** and exploring **machine learning models**.<br>
 Currently learning various different front-end and back-end frameworks.<br>
