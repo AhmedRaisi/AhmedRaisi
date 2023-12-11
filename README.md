@@ -32,7 +32,6 @@ Looking to collaborate on any of my repos or any full-stack projects.<br>
 
 <br><br> <!-- Added padding -->
 
-![Giphy GIF](https://media.giphy.com/media/7FrOU9tPbgAZtxV5mb/giphy-downsized-large.gif)
 
 ---
 
